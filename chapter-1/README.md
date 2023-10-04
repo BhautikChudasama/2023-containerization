@@ -4,6 +4,7 @@ In this chapter you will learn:
 
 - How to pull an OCI image
 - How to run a container from the image
+- Port-Forwarding
 
 ```shell
 # Make sure in your system docker is installed and running
