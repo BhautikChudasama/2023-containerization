@@ -29,7 +29,7 @@ docker inspect --format '{{ .NetworkSettings.Networks.bridge.IPAddress }}' postg
 psql --host=<container IP address> --username=sally
 
 # 2. Expose the postgres port and link it to your host
-docker run --rm -d --name postgres -p 5432:5432 
+docker run --rm -d --name postgres -p 5432:5432 \
   -e POSTGRES_USER=sally \
   -e POSTGRES_PASSWORD=softKitty \
   -e POSTGRES_DB=app \
