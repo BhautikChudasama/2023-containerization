@@ -49,3 +49,8 @@ docker ps
 # 3. Stop, and Remove the services.
 docker-compose down
 ```
+### Learn by Doing
+
+In this section you can apply the knowledge by doing hands-on exercises:
+
+1. Can you add persistence to this chapter?
