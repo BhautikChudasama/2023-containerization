@@ -1,5 +1,9 @@
 # 2023-containernization
 
+---
+### Workshop Link
+[Presentation](https://pitch.com/public/dabb6976-e36d-4f54-954c-e2c0e84f00b0) - Check the workshop slide here
+
 ### Intuitive
 
 - This repository contains experiments related to containerization example. Pre-requisite is make sure you've docker is installed.
